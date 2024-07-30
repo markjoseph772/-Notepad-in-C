@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-*/Find the bug if you can*/
+*/Bug has been found*/
 char filecontent [10000];
  char writepad (){
 	int i = 0;
