@@ -1,0 +1,6 @@
+#ignore all .o files
+*.o
+#ignore all .dev files
+*.dev
+#ignore all .layout files
+*.layout
